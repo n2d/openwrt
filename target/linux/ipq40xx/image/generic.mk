@@ -256,6 +256,7 @@ define Device/asus_rt-acrh17
 	DEVICE_VENDOR := ASUS
 	DEVICE_MODEL := RT-ACRH17
 	DEVICE_DTS := qcom-ipq4019-rt-acrh17
+	SOC := qcom-ipq4019
 	BLOCKSIZE := 128k
 	PAGESIZE := 2048
 	DTB_SIZE := 65536
